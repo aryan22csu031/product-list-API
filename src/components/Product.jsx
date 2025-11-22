@@ -33,7 +33,7 @@ const Product = () => {
                 </p>
                 <h1 className="text-lg font-semibold">Rs.{i.price}</h1>
                 <button className="mb-2 px-4 py-2 bg-blue-500 text-white font-medium rounded-lg hover:bg-blue-600 transition duration-200">
-                  BUY
+                  BUY NOW
                 </button>
               </div>
             </div>
